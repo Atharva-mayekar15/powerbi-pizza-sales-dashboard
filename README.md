@@ -26,7 +26,7 @@ This project is a full-cycle data analysis workflow on a fictional pizza restaur
 
 ## 📈 Dashboard Preview
 
-![Pizza Sales Dashboard][(https://github.com/Atharva-mayekar15/powerbi-pizza-sales-dashboard/blob/main/Screenshot%202025-06-29%20165756.png?raw=true)](https://github.com/Atharva-mayekar15/powerbi-pizza-sales-dashboard/blob/main/Dashboard.png)
+![Pizza Sales Dashboard](https://github.com/Atharva-mayekar15/powerbi-pizza-sales-dashboard/blob/main/Dashboard.png)
 
 ---
 
